@@ -4,14 +4,14 @@
 
 [![Giulia GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Yumi-giuliA&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Giulia GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Yumi-giuliA&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yumi-giuliA&layout=compact&theme=dark#gh-dark-mode-only)
+
+
 
 ## Tecnologias que estudo
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yumi-giuliA&layout=compact&theme=dark#gh-dark-mode-only)
 <div style="display: inline_block"><br>
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"> 
 </div>
-
-![Snake animation](https://github.com/Yumi-giuliA/Yumi-giuliA/blob/output/github-contribution-grid-snake.svg)
