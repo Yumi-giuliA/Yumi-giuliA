@@ -1,4 +1,5 @@
-### Olá, eu sou a Giulia Nagasaki 🖖. Bem-vindo(a) ao meu perfil!
+## Olá, eu sou a Giulia Nagasaki 🖖. Bem-vindo(a) ao meu perfil!
+### Análise e desenvolvimento de sistemas | Universidade de Mogi das Cruzes | Concluído em Dezembro 2024
 <div> 
   <a href = "mailto:giulia.yumi.nagasaki@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/giulianagasaki-desenvolvedora/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
