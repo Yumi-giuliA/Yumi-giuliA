@@ -16,7 +16,7 @@
 
 
 
-## 🛠 Tecnologias e Ferramentas que estudo:
+## 🛠 Tecnologias e Ferramentas:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yumi-giuliA&layout=compact&theme=dark#gh-dark-mode-only)
 <div style="display: inline_block"><br>
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -24,4 +24,5 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"> 
   <img align="center" alt="MySQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+  <img align="center" alt="MySQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-plain.svg"/>
 </div>
